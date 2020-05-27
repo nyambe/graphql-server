@@ -1,2 +1,0 @@
-# graphql-server
-Begin app
